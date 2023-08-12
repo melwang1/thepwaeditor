@@ -10,7 +10,7 @@
 - [Quantifiers](#quantifiers)
 - [Character Classes](#character-classes)
 
-##Description 
+###Description 
 
 GIVEN a text editor web application
 WHEN I open my application in my editor
@@ -38,7 +38,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
-##Installation 
+####Installation 
 1. npm i
 2. npm run start:dev
 
